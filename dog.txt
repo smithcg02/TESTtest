@@ -4,3 +4,4 @@ Name  - Fav. dog breed
 
 * C. Smith - Dalmation
 * V. Szell - Saluki
+* Andras Nagy - Vizsla
